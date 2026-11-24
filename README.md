@@ -1,1 +1,1 @@
-# Linear-Logistic-Regression-
+# Linear-Logistic-Regression- from scratch
